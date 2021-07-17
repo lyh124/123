@@ -1,2 +1,2 @@
 # 123
-[a](http://w.seu.edu.cn)
+[a](https://w.seu.edu.cn)
